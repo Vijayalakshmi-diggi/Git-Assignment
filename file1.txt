@@ -1,5 +1,5 @@
 new file for the Git assignment
+committing changes to the new file by adding another line
 Git is a version control system.
-Git tracks changes in file over time.
 
 
