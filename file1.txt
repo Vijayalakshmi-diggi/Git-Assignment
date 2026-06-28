@@ -1,5 +1,6 @@
 new file for the Git assignment
 Git is a version control system.
 Git tracks changes in file over time.
+Git add command stages the changes.
 
 
