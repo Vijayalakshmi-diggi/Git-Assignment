@@ -1,1 +1,7 @@
-hi
+new file for the Git assignment
+committing changes to the new file by adding another line
+Git is a version control system.
+Git tracks changes in file over time.
+Git add command stages the changes.
+Git is used for collaboration.
+Git commit is used when modified a file.
